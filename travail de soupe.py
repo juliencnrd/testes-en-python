@@ -5,5 +5,5 @@ def indice_max(liste):
         if liste[i]>testeur:
             testeur=liste[i]
             index=i
-    return i
+    return index
 
